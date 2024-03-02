@@ -1,6 +1,6 @@
 # welcome
 
-Puma.network is an decentralized infrastructure layer focused on creating open LLMs and rewarding contributions of compute, feedback (RLHF) and data.
+Puma.network is a decentralized infrastructure layer focused on creating open LLMs and rewarding contributions of compute, feedback (RLHF) and data.
 
 More info coming soon ✨
 
