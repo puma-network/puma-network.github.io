@@ -1,4 +1,4 @@
-# welcome
+# Puma network
 
 Puma.network is a decentralized infrastructure layer focused on creating open LLMs and rewarding contributions of compute, feedback (RLHF) and data.
 
